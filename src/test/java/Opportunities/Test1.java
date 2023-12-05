@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class Test1 {
  @Test
- public void Facebook() {
+ public void FacebookTest() {
 	 
 	
 	 WebDriver d1 = new ChromeDriver();
